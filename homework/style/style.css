@@ -1,0 +1,17 @@
+.valid{
+    border:1px solid green;
+
+}
+.invalid{
+    border:1px solid red;
+}
+.btn{
+    margin-left: 1.2rem;
+}
+p {
+    color: red;
+    margin: 15px 0 0 5px;
+}
+.form-control{
+    margin: 5px;
+}
